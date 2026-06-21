@@ -10,15 +10,15 @@ How to Run
 **The script generates:
 
 Console Output:
-  Total drone mass
-  Center of gravity
-  Inertia tensor values
-  Thrust-to-weight evaluation
-  Resonance safety warnings
+  Total drone mass,
+  Center of gravity,
+  Inertia tensor values,
+  Thrust-to-weight evaluation,
+  Resonance safety warnings,
   
 Plots:
-  Pitch Stabilization vs Time
-  Shows PID response under wind disturbance
-  Frequency Response Curve
-  Shows resonance amplification vs motor RPM
-  Highlights dangerous operating zones
+  Pitch Stabilization vs Time,
+  Shows PID response under wind disturbance,
+  Frequency Response Curve,
+  Shows resonance amplification vs motor RPM,
+  Highlights dangerous operating zones,
